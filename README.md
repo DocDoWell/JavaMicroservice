@@ -1,4 +1,4 @@
-JavaMicroservice
+# JavaMicroservice
 
 Spring Boot implementation of a Java microservice architecture. Consists of best practices for:
 
